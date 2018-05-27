@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Slide
+comment0.text=\n\ Slides\ for\ hangman\ art\ progression.\ \n\ An\ Array\ of\ type\ String\ to\ store\ each\ line\ of\ text\ in\ the\ Slide.\n\n\ @author\ Vincent\ Valenzuela\n\ @version\ 5/21/18\n
+comment1.params=inputFile
+comment1.target=boolean\ read(java.util.Scanner)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

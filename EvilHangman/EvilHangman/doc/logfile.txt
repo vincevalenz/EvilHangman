@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-service.jar:/home/martian/Documents/CSIS10B/EvilHangman
+-d
+/home/martian/Documents/CSIS10B/EvilHangman/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/martian/Documents/CSIS10B/EvilHangman/EvilHangman.java
+<---- end of javadoc command ---->
+Loading source file /home/martian/Documents/CSIS10B/EvilHangman/EvilHangman.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_171
+Building tree for all the packages and classes...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/EvilHangman.html...
+/home/martian/Documents/CSIS10B/EvilHangman/EvilHangman.java:212: warning - @param argument "String" is not a parameter name.
+/home/martian/Documents/CSIS10B/EvilHangman/EvilHangman.java:212: warning - @param argument "String" is not a parameter name.
+/home/martian/Documents/CSIS10B/EvilHangman/EvilHangman.java:212: warning - @param argument "char" is not a parameter name.
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/package-frame.html...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/package-summary.html...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/allclasses-frame.html...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/allclasses-noframe.html...
+Generating /home/martian/Documents/CSIS10B/EvilHangman/doc/index.html...
+3 warnings

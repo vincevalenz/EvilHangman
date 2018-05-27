@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EvilHangman
+comment0.text=\n\ Evil\ Hangman\ doesn't\ choose\ a\ word\ to\ be\ guessed.\ \n\ The\ program\ reduces\ an\ ArrayList\ of\ words\ until\ the\ player\ runs\n\ out\ of\ guesses\ and\ loses\ or\ the\ list\ is\ reduced\ to\ one\ word\ and\ the\ player\ wins.\n\ \n\ @author\ Vincent\ Valenzuela\n\ @version\ 5/21/2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ EvilHangmanGame()
+comment2.text=\n\ The\ Evil\ Hangman\ Game.\ \n\ Returns\ a\ boolean\ to\ determine\ if\ player\ wants\ to\ repeat\ the\ game\ or\ quit.\n\ @return\ boolean\n
+comment3.params=word\ match\ guess
+comment3.target=java.lang.String\ pattern(java.lang.String,\ java.lang.String,\ char)
+comment3.text=\n\ Pattern\ definition\ method.\ Takes\ a\ word\ from\ the\ current\ list\ \n\ to\ be\ checked\ for\ the\ guess\ and\ compare\ agaisnt\ current\ matches\n\ \n\ @param\ String\ Word\ to\ be\ checked\n\ @param\ String\ Pattern\ to\ be\ compared\ against\n\ @param\ char\ Players\ guess\n\ @return\ String\n
+numComments=4
